@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="confluent-log4j-extensions" />
+        <module name="rest-utils" />
+        <module name="kafka-schema-registry" />
+        <module name="rest-utils-test" />
+        <module name="build-tools" />
+        <module name="confluent-log4j2-extensions" />
+        <module name="bus-sdk-java" />
+        <module name="aliyun-sdk-datahub" />
+        <module name="kafka-schema-registry-client" />
+        <module name="rest-utils-examples" />
+        <module name="common-metrics" />
+        <module name="kafka-rest-scala-consumer" />
+        <module name="common-config" />
+        <module name="kafka-rest-common" />
+        <module name="kafka-connect-avro-converter" />
+        <module name="common-utils" />
+        <module name="kafka-streams-avro-serde" />
+        <module name="kafka-schema-registry-maven-plugin" />
+        <module name="avro-sdk" />
+        <module name="common-logging" />
+        <module name="kafka-avro-serializer" />
+        <module name="kafka-rest" />
+        <module name="kafka-json-serializer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aliyun-sdk-datahub" target="1.8" />
+      <module name="assembly-plugin-boilerplate" target="1.8" />
+      <module name="avro-console-scripts" target="8" />
+      <module name="avro-examples" target="1.8" />
+      <module name="avro-sdk" target="1.8" />
+      <module name="build-tools" target="1.8" />
+      <module name="bus-sdk-java" target="1.8" />
+      <module name="bussdkjava" target="1.8" />
+      <module name="common" target="8" />
+      <module name="common-config" target="8" />
+      <module name="common-logging" target="8" />
+      <module name="common-metrics" target="8" />
+      <module name="common-package" target="8" />
+      <module name="common-parent" target="8" />
+      <module name="common-utils" target="8" />
+      <module name="confluent-log4j-extensions" target="8" />
+      <module name="confluent-log4j2-extensions" target="8" />
+      <module name="datahub-sdk-java" target="1.8" />
+      <module name="kafka-avro-java-course" target="1.8" />
+      <module name="kafka-avro-serializer" target="8" />
+      <module name="kafka-avro-v1" target="1.8" />
+      <module name="kafka-avro-v2" target="1.8" />
+      <module name="kafka-connect-avro-converter" target="8" />
+      <module name="kafka-json-serializer" target="8" />
+      <module name="kafka-rest" target="8" />
+      <module name="kafka-rest-common" target="8" />
+      <module name="kafka-rest-console-scripts" target="8" />
+      <module name="kafka-rest-parent" target="8" />
+      <module name="kafka-rest-scala-consumer" target="8" />
+      <module name="kafka-schema-registry" target="8" />
+      <module name="kafka-schema-registry-client" target="8" />
+      <module name="kafka-schema-registry-maven-plugin" target="8" />
+      <module name="kafka-schema-registry-package" target="8" />
+      <module name="kafka-schema-registry-parent" target="8" />
+      <module name="kafka-serde-tools-package" target="8" />
+      <module name="kafka-streams-avro-serde" target="8" />
+      <module name="rest-utils" target="8" />
+      <module name="rest-utils-examples" target="8" />
+      <module name="rest-utils-package" target="8" />
+      <module name="rest-utils-parent" target="8" />
+      <module name="rest-utils-test" target="8" />
+      <module name="schema-registry-console-scripts" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

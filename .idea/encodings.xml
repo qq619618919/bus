@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/aliyun-datahub-sdk-java-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aliyun-datahub-sdk-java-master/datahub-sdk-public" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/assembly-plugin-boilerplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/build-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/log4j-extensions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/log4j2-extensions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/metrics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/package" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-5.4.0/utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-rest-5.4.0" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-console-scripts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-scala-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-utils-5.4.0" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-utils-5.4.0/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-utils-5.4.0/examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-utils-5.4.0/package" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-utils-5.4.0/test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/avro-console-scripts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/avro-converter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/avro-serde" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/avro-serializer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/json-serializer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/maven-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/package-kafka-serde-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/package-schema-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schema-registry-5.4.0/schema-registry-console-scripts" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

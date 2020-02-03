@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aliyun-datahub-sdk-java-master/datahub-sdk-public/aliyun-sdk-datahub.iml" filepath="$PROJECT_DIR$/aliyun-datahub-sdk-java-master/datahub-sdk-public/aliyun-sdk-datahub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/assembly-plugin-boilerplate/assembly-plugin-boilerplate.iml" filepath="$PROJECT_DIR$/common-5.4.0/assembly-plugin-boilerplate/assembly-plugin-boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/avro-console-scripts/avro-console-scripts.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/avro-console-scripts/avro-console-scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/avro-sdk/avro-sdk.iml" filepath="$PROJECT_DIR$/avro-sdk/avro-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/build-tools/build-tools.iml" filepath="$PROJECT_DIR$/common-5.4.0/build-tools/build-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bus.iml" filepath="$PROJECT_DIR$/.idea/bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-sdk-java/bus-sdk-java.iml" filepath="$PROJECT_DIR$/bus-sdk-java/bus-sdk-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/parent/common.iml" filepath="$PROJECT_DIR$/common-5.4.0/parent/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/config/common-config.iml" filepath="$PROJECT_DIR$/common-5.4.0/config/common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/logging/common-logging.iml" filepath="$PROJECT_DIR$/common-5.4.0/logging/common-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/metrics/common-metrics.iml" filepath="$PROJECT_DIR$/common-5.4.0/metrics/common-metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/package/common-package.iml" filepath="$PROJECT_DIR$/common-5.4.0/package/common-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/common-parent.iml" filepath="$PROJECT_DIR$/common-5.4.0/common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/utils/common-utils.iml" filepath="$PROJECT_DIR$/common-5.4.0/utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/log4j-extensions/confluent-log4j-extensions.iml" filepath="$PROJECT_DIR$/common-5.4.0/log4j-extensions/confluent-log4j-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-5.4.0/log4j2-extensions/confluent-log4j2-extensions.iml" filepath="$PROJECT_DIR$/common-5.4.0/log4j2-extensions/confluent-log4j2-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aliyun-datahub-sdk-java-master/datahub-sdk-java.iml" filepath="$PROJECT_DIR$/aliyun-datahub-sdk-java-master/datahub-sdk-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/avro-serializer/kafka-avro-serializer.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/avro-serializer/kafka-avro-serializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/avro-converter/kafka-connect-avro-converter.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/avro-converter/kafka-connect-avro-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/json-serializer/kafka-json-serializer.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/json-serializer/kafka-json-serializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest/kafka-rest.iml" filepath="$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest/kafka-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-common/kafka-rest-common.iml" filepath="$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-common/kafka-rest-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-console-scripts/kafka-rest-console-scripts.iml" filepath="$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-console-scripts/kafka-rest-console-scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-parent.iml" filepath="$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-scala-consumer/kafka-rest-scala-consumer.iml" filepath="$PROJECT_DIR$/kafka-rest-5.4.0/kafka-rest-scala-consumer/kafka-rest-scala-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/core/kafka-schema-registry.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/core/kafka-schema-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/client/kafka-schema-registry-client.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/client/kafka-schema-registry-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/maven-plugin/kafka-schema-registry-maven-plugin.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/maven-plugin/kafka-schema-registry-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/package-schema-registry/kafka-schema-registry-package.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/package-schema-registry/kafka-schema-registry-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/kafka-schema-registry-parent.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/kafka-schema-registry-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/package-kafka-serde-tools/kafka-serde-tools-package.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/package-kafka-serde-tools/kafka-serde-tools-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/avro-serde/kafka-streams-avro-serde.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/avro-serde/kafka-streams-avro-serde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-utils-5.4.0/core/rest-utils.iml" filepath="$PROJECT_DIR$/rest-utils-5.4.0/core/rest-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-utils-5.4.0/examples/rest-utils-examples.iml" filepath="$PROJECT_DIR$/rest-utils-5.4.0/examples/rest-utils-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-utils-5.4.0/package/rest-utils-package.iml" filepath="$PROJECT_DIR$/rest-utils-5.4.0/package/rest-utils-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-utils-5.4.0/rest-utils-parent.iml" filepath="$PROJECT_DIR$/rest-utils-5.4.0/rest-utils-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-utils-5.4.0/test/rest-utils-test.iml" filepath="$PROJECT_DIR$/rest-utils-5.4.0/test/rest-utils-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schema-registry-5.4.0/schema-registry-console-scripts/schema-registry-console-scripts.iml" filepath="$PROJECT_DIR$/schema-registry-5.4.0/schema-registry-console-scripts/schema-registry-console-scripts.iml" />
+    </modules>
+  </component>
+</project>
